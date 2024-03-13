@@ -2,10 +2,12 @@
 Welcome to my machine learning projects repository! Here, I'm working on a series of exercises designed for the Introduction to Machine Learning course taught by Nora Gourmelon, Mathias Seuret, Johannes Enk, Florian Hasreiter, Helena Heinrich, and Julian Windeck. These exercises cover various fundamental concepts and techniques in machine learning, providing hands-on experience and practical skills development.
 
 1. **Task 0: Warmup**
+   
 **Exercise 0: Getting Started**
 To kick off the course, I set up all the necessary software required, including installing a VPN for accessing university resources, setting up Python 3 and an Integrated Development Environment (IDE) like PyCharm, managing packages with pip, and installing essential libraries such as numpy and matplotlib.
 
 2. **Task 1: Sampling and Fourier Decomposition**
+
 **Exercise 01(a): Sampling Theorem**
 In this exercise, I created a Python module to generate chirp signals with linear or exponential frequency changes. I also set up my Python environment, installed required libraries, and completed a programming exercise involving conditional indexing without loops.
 
