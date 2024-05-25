@@ -17,14 +17,17 @@ For this task, I reconstructed signals like square, triangle, and sawtooth waves
 **Exercise 01(C): Tuning a Piano**
 This exercise involves loading audio files of piano notes, processing them to identify the main frequency, comparing them with expected values, and determining the identity of an unknown note. Students are also encouraged to provide their opinions on a given scenario during oral submissions.
 
-3. **Task 3: Convolution and Edge Detection**
-**Exercise 03**
+3. **Task 2: Convolution and Edge Detection**
+   
+**Exercise 02**
 This exercise was a crucial one. It involved implementing convolution operations, sharpening images, and creating a Canny Edge Detector from scratch. The process included denoising, gradient magnitude and direction calculation, maximum suppression, and hysteris thresholding.
 
 4. **Task 4: Palm Print Identification**
+   
 **Exercise 04: Palm Print Identification**
 In this challenging exercise, I implemented a palm print identification system based on a research paper by Li et al. I pre-processed palm print images, extracted features using Fourier Transform, and matched features for identification. The provided Python modules and important hints guided me through this process effectively.
 
 5. **Task 5: Facial Recognition with Eigenfaces**
+   
 **Exercise 05: Facial Recognition**
 For the final task, I built a facial recognition system using Eigenfaces. This involved pre-processing, training, and classification. I even supported both online detection using a webcam and offline detection using an offline dataset. It was a comprehensive project that put all my skills to the test.
