@@ -22,12 +22,12 @@ This exercise involves loading audio files of piano notes, processing them to id
 **Exercise 02**
 This exercise was a crucial one. It involved implementing convolution operations, sharpening images, and creating a Canny Edge Detector from scratch. The process included denoising, gradient magnitude and direction calculation, maximum suppression, and hysteris thresholding.
 
-4. **Task 4: Palm Print Identification**
+4. **Task 3: Palm Print Identification**
    
-**Exercise 04: Palm Print Identification**
+**Exercise 03: Palm Print Identification**
 In this challenging exercise, I implemented a palm print identification system based on a research paper by Li et al. I pre-processed palm print images, extracted features using Fourier Transform, and matched features for identification. The provided Python modules and important hints guided me through this process effectively.
 
-5. **Task 5: Facial Recognition with Eigenfaces**
+5. **Task 4: Facial Recognition with Eigenfaces**
    
-**Exercise 05: Facial Recognition**
+**Exercise 04: Facial Recognition**
 For the final task, I built a facial recognition system using Eigenfaces. This involved pre-processing, training, and classification. I even supported both online detection using a webcam and offline detection using an offline dataset. It was a comprehensive project that put all my skills to the test.
